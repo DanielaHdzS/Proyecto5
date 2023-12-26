@@ -6,3 +6,5 @@ Cone ste proyecto, haremos una aplicacion web usando Render. Para esto, se nos p
 
 La URL de mi Render es: https://dashboard.render.com/web/srv-cm5eeu7qd2ns73eo5ukg/deploys/dep-cm5eeu7qd2ns73eo5upg 
 URL: http://0.0.0.0:10000
+
+Nota: La rama esta en master. 
