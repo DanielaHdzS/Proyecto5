@@ -3,7 +3,7 @@ import pandas as pd
 import plotly_express as px
 
 car_data = pd.read_csv(
-    'D:/Python/Tripleten/Proyectos/Sprint5/vehicles_us.csv')  # leer los datos
+    'vehicles_us.csv')  # leer los datos
 
 st.header('Aplicacion Proyecto Sprint 5')
 
